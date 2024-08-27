@@ -7,6 +7,7 @@ Here, I have used different deep neural network models to effectively classify o
 
 # Data: 
 Kaggle - (https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis)
+
 Train.csv - Labelled dataset of 31,962 tweets. Csv file with each line storing:
 1.	Tweet id
 2.	Tweet sentence
@@ -17,4 +18,6 @@ Test.csv – Each row of test data contains:
 
 # Conclusion :
 Among the Sequential, CNN and LSTM models i used, CNN performs better as we saw that False Negative Rate is very low which means model is able to classify maximum number of offensive comments accurately that will help app to delete such comments more effectively.
+
+Report : [Report](https://github.com/Haripriya9851/Twitter-Sentiment-Analysis/blob/main/Twitter%20Sentiment%20Analysis%20with%20Neural%20Net.pdf)
 
